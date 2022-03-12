@@ -1,0 +1,61 @@
+<!-- root -->
+<div id="main" class="text-center">
+  
+  <div id="submain">
+
+    <div class="container-fluid">
+
+      <!-- title -->
+      <div id="title">
+        <h1>DONAMAE CERRO</h1>
+        <p id="subtitle">Science, Technology, Engineering, and Mathematics Student</p>
+      </div>
+
+      <!-- image -->
+      <div id="img-div">
+        <img id="image" src="https://scontent.fceb2-2.fna.fbcdn.net/v/t39.30808-6/244239554_1466666747038382_314184110295704550_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_eui2=AeH-zUSut9MKFPWDyVOezbUFbFSlF-Q9oJRsVKUX5D2glP3f1Qw_73QRf9osaE-hGlV77PhXgYE2DMjK4wJJQtC_&_nc_ohc=pQvVZNVy6BEAX8H15We&_nc_ht=scontent.fceb2-2.fna&oh=00_AT9o0Z9fPFjXIfk1RYBT05pPXIAZwfNxRMmdelXyH6AqWQ&oe=62319E55" class="img-fluid" alt="Donamae Cerro">
+        <p id="img-caption">Donamae Cerro, also called "Dona" is a woman who is is currently stuggling but willing to work smartly. 
+        </p>
+      </div>
+
+      <h4>Here are some of Dona's goals to achieve. </h4>
+      <div id="tribute-info" class="row">
+        <!-- goals -->
+        <div class="col-10 offset-1 text-left">
+          <ul>
+            <li>Finish senior high school with awards.</li>
+            <li> Pass the DOST-SEI Scholarship.</li>
+            <li>Pass the Visayas State University's entrance exam. </li>
+            <li>More than 500 connection on LinkedIn. </li>
+            <li>and a lot more, too personal to share</li>
+<ul/>
+    <div/>
+         
+    <h4>More of Dona... </h4>
+            
+        <li>Has 3 hamsters</li>
+        <!-- image -->
+         <div id="img-div">
+         <img id="image" src="https://en.meming.world/images/en/thumb/5/5f/Scared_Hamster.jpg/450px-Scared_Hamster.jpg">
+                  
+         <li>Lazy</li> 
+ <!-- image -->
+         <div id="img-div">
+         <img id="image" src=https://scontent.fceb2-1.fna.fbcdn.net/v/t1.6435-9/74471157_936369380068124_1346973968195649536_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeH5BAVe9pSC3MuLmh1r7igMxIidzX4EpsLEiJ3NfgSmwvf4iAMeZrI-fjpZc5BYhh66szLfRqF5cWYV1MNkJI8G&_nc_ohc=ZQ3h_vWm8zwAX9lq0fP&tn=dXCaf2OPh30wpH9R&_nc_ht=scontent.fceb2-1.fna&oh=00_AT-bJ6WBMECr5Pk33DQusEFePZU299Su-Z1xgzCbZgInnQ&oe=6251725F>
+           <li>Somehow friendly</li>
+            <!-- image -->
+         <div id="img-div">
+         <img id="image" src=https://scontent.fceb6-1.fna.fbcdn.net/v/t39.30808-6/271053766_1531829190522137_7398309540503653439_n.jpg?stp=dst-jpg_p640x640&_nc_cat=110&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeFtSXVPAZDHpDSrrS_xjNF9XRS8QPcflEZdFLxA9x-URoCgd24Yn9KzqNyP97Y1oCUzrOWI1J0NuPwLaHbbmtjY&_nc_ohc=mJ_4Idx2s5EAX_ho8S5&_nc_ht=scontent.fceb6-1.fna&oh=00_AT-Jz8TjFGTNHTLs0tmfrHLlHph5AqtcEE19wZIx3oKQ4g&oe=623115D1>
+           <li> and many more.</li>
+           
+      <!-- wiki -->
+      <p id="link">You may visit her social media accounts. 
+              <p/>                                <a id="tribute-link" href= target="_blank">Facebook</a>
+           
+
+    <a id="tribute-link" href=https://www.linkedin.com/in/donamae-cerro-0b5559225/ target="_blank">LinkedIn</a>
+                 
+
+    <a id="tribute-link" href= https://www.instagram.com/donamaecerro/target="_blank">Instagram</a>
+  </div>
+  
